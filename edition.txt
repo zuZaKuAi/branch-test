@@ -1,2 +1,3 @@
-first edition 
-hotfix my solution 
+first edition
+hotfix my solution
+Hotfix team's solution
